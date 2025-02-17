@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "Vue.volar",
+    "antfu.vite",
+    "bradlc.vscode-tailwindcss",
+    "dbaeumer.vscode-eslint",
+    "ecmel.vscode-html-css",
+    "esbenp.prettier-vscode"
+  ]
+}
